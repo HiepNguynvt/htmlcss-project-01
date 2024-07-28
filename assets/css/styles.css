@@ -182,8 +182,8 @@ a {
 
 /* =================== Clients ==================== */
 .clients {
-    margin-top: 79px;
-    padding: 43px 0 64px;
+    /* margin-top: 79px; */
+    padding: 86px 0 64px;
 }
 
 .clients .row {
@@ -420,8 +420,8 @@ a {
 
 /* =================== Stats ==================== */
 .stats {
-    margin-top: 75px;
-    padding: 50px 0;
+    /* margin-top: 75px; */
+    padding: 86px 0 50px;
 }
 
 .stats .content {
@@ -604,7 +604,7 @@ a {
 
 /* =================== Subscription ==================== */
 .subscription {
-    margin-top: 90px;
+    padding-top: 120px;
 }
 
 .subscription .body {
