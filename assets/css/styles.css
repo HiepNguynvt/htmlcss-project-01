@@ -114,13 +114,16 @@ a {
 
 .navbar .action-link {
     color: var(--primary-color);
+    border: 2px solid var(--primary-color);
     background: #e6f0ff;
-    padding: 13px 16px;
+    padding: 11px 14px;
     border-radius: 8px;
 }
 
 .navbar .action-link:hover {
-    background-color: #dae7fb;
+    background-color: #cfdef3;
+    color: var(--primary-color);
+    border: 2px solid var(--primary-color);
 }
 
 .navbar .action-btn {
